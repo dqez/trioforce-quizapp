@@ -10,7 +10,7 @@ Một dự án xây dựng ứng dụng di động Android về trò chơi đố
 -   **Câu hỏi đa dạng:** Ngân hàng câu hỏi phong phú được lấy từ API hoặc cơ sở dữ liệu cục bộ.
 -  **Thỏa sức sáng tạo:** Người dùng có thể tự do đống góp bộ câu hỏi hay, thú vị cho app
 
-## [UI - Figma](https://www.figma.com/design/XXSg4xNxQzLgofNDYZllwh/13.-Quiz-App?node-id=54-103&t=64G5P13PoBqI2SfU-1)
+## [Link UI - Figma](https://www.figma.com/design/XXSg4xNxQzLgofNDYZllwh/13.-Quiz-App?node-id=54-103&t=64G5P13PoBqI2SfU-1)
 
 ## Công nghệ sử dụng
 
@@ -165,4 +165,5 @@ Một dự án xây dựng ứng dụng di động Android về trò chơi đố
 -   **Trần Đình Quý**  - [GitHub Profile](https://github.com/dqez)
 -   **Nguyễn Vũ Khanh** - [GitHub Profile](https://github.com/VuKhanhNguyen)
 -   **Nguyễn Đình Đức** - [GitHub Profile](https://github.com/DinhDucNguyen)
+
 
